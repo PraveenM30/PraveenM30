@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Praveen M</h1>
 <h3 align="center">A passionate Software Test Engineer from India</h3>
 
+- 📫 How to reach me **praveen.mohansundar9@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
