@@ -15,5 +15,8 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
    <a href="https://appium.io/" target="_blank" rel="noreferrer"> <img src="https://appium.io/docs/en/latest/assets/images/appium-logo-horiz.png" alt="selenium" width="120" height="40"/> </a>
+      <a href="https://testng.org/" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/b1/c5/07/b1c50720d7c59caff5660adbe3e0f9a9.jpg" alt="selenium" width="100" height="40"/> </a>
+      <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://maven.apache.org/images/apache-maven-project.png" alt="selenium" width="180" height="40"/> </a>
+         <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:AN…A4BXTRfxg_wnxdNzbJwy4HE-Mb5bV47XBKYqZppQ&usqp=CAU" alt="selenium" width="180" height="40"/> </a>   
   
 </p>
