@@ -20,5 +20,6 @@
   <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"> <img src="https://jmeter.apache.org/images/logo.svg" alt="selenium" width="100" height="40"/> </a>
   <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://maven.apache.org/images/apache-maven-project.png" alt="selenium" width="180" height="40"/> </a>
   <a href="https://www.fireflink.com/" target="_blank" rel="noreferrer"> <img src="https://www.fireflink.com/static/media/fireflink.0d427889.svg" alt="postman" width="140" height="40"/> </a>
-  <a href="https://rest-assured.io/" target="_blank" rel="noreferrer"> <img src="	https://rest-assured.io/img/logo-transparent.png" alt="postman" width="40" height="40"/> </a>
+  <a href="https://rest-assured.io/" target="_blank" rel="noreferrer"> <img src="https://rest-assured.io/img/logo-transparent.png" alt="postman" width="40" height="40"/> </a>
+  <a href="https://rest-assured.io/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/7fedb323ac9f1c4ca65cee9aa68721470f74fbe53bf8f07d257255959eb9913c/68747470733a2f2f313030306c6f676f732e6e65742f77702d636f6e74656e742f75706c6f6164732f323032312f30352f41746c61737369616e2d4c6f676f2d3230313073312e706e67" alt="postman" width="40" height="40"/> </a>
 </p>
